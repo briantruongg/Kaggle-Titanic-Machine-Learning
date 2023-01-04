@@ -1,4 +1,4 @@
-# Kaggle-Titanic Machine Learning
+# Kaggle-Titanic Machine Learning from Disaster
 
 In this machine learning competition created by Kaggle, we explore the survivability of the famous Titanic sinking using a Jupyter Notebook on the Kaggle website, coded in Python. The training and test set are given by Kaggle and we will predict the survival chance based on the features in the dataset (age, sex, passenger class, title, city embarked, etc).
 
