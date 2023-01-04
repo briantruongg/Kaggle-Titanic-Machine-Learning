@@ -11,3 +11,9 @@ An outline of the project/submission are as follows:
 - feature engineering
 
 - modeling
+
+- model evaluation and cross validation
+
+- hyperparameter tuning
+
+- submission
